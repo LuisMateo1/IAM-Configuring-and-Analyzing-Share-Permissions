@@ -7,7 +7,7 @@
 **Scenario:**
 515support is in the process of being audited. To comply with the audit process, it is necessary to create temporary user and computer accounts for the audit staff. Each account exists as an object in the company's Active Directory domain, where they are given certain attributes and permissions according to the requirements of the project. Another technician has developed a script to provision the accounts automatically. You have been asked to execute the script and validate the results. You have tested that the portion of the script that creates accounts is working as intended.
 
-This is a continuation of part 1 of this IAM lab: **[Performing Account and Permissions Audits](https://github.com/LuisMateo1/IAM-Performing-Account-and-Permissions-Audits/)**. I still need to validate that the sec-glo-audit security group has read-only access to the \\MS1\AUDIT network share, mapped to the C:\LABFILES folder on the MS1 VM.
+This is a continuation to part 1 of this IAM lab: **[Performing Account and Permissions Audits](https://github.com/LuisMateo1/IAM-Performing-Account-and-Permissions-Audits/)**. I still need to validate that the sec-glo-audit security group has read-only access to the \\MS1\AUDIT network share, mapped to the C:\LABFILES folder on the MS1 VM.
 
 #
 <h3>Configuring and Analyzing Share Permissions</h3>
