@@ -33,7 +33,7 @@ Now I'll click on Permissions > Custom Permissions. At the top, we see that sec-
 ![image](https://github.com/user-attachments/assets/33ca360d-58c5-4506-8c4b-87d400bbcaa3)
 
 
-- sec-glo-audit has been granted Full Control using NTFS permissions. These apply locally. NTFS permissions can propagate to child objects and containers (like in this case) or they can be set separately.
+- sec-glo-audit has been granted Full Control using New Technology File System (NTFS) permissions. These apply locally. NTFS permissions can propagate to child objects and containers (like in this case) or they can be set separately.
 
 Clicking the Share tab, there is only one entry which allows only authenticated users full control.
 -  This permission applies when accessing the share over the network only.
